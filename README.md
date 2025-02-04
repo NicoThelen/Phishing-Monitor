@@ -63,6 +63,9 @@ Criteria for triggering an alarm/message - depending on the settings in the conf
 6. The domain name does contain a suspicious phishing keyword from the list (optional)
 7. The content of the website contains a suspicious term from the list (optional)
 
+If an alarm is triggered, the detected domain is enriched with information from VT (optional). \
+If the E-Mail transmission fails, the alarm is written to an extra local report file as csv.
+
 ### Certstream.log
 
 All relevant events, informations and errors are logged in the `"certstream.log"` file.
