@@ -1,0 +1,3 @@
+title: LegitDomainToMonitor.com # Legitimate domain that is monitored and whose variations are listed below
+variations: # Suspicious variations that start the analysis
+- SusVariationToMonitor.com
