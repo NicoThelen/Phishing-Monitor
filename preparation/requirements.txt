@@ -1,0 +1,6 @@
+certstream==1.12
+idna==3.4
+python_Levenshtein==0.25.0
+PyYAML==6.0.1
+Requests==2.31.0
+sendmail
